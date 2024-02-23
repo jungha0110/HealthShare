@@ -1,0 +1,4 @@
+name: HealthShare
+main: io.github.jungha.Main
+version: 0.1
+api-version: 1.20
